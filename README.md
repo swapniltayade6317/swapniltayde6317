@@ -24,7 +24,7 @@ I'm a passionate Java Full Stack Developer with a strong foundation in building 
 
 📫 **Let's Connect**
 
-- 💼 [LinkedIn](www.linkedin.com/in/swapnil-tayade-2896b62a0)
+- 💼 [LinkedIn][www.linkedin.com/in/swapnil-tayade-2896b62a0]
 - 📧 Email: swapniltayade6317@gmail.com
 ---
 
